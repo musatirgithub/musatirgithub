@@ -5,7 +5,7 @@
 - 🔭 I'm currently a trainee at Clarusway IT Bootcamp .
 - 🌱 I'm learning || JAVASCRIPT || REACT ||
 - 💬 Ask me anything about IT.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatih-%C3%A7al%C4%B1%C5%9F-436a92224/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmet-ugur-satir/)
 
 - ![](https://komarev.com/ghpvc/?username=musatirgithub)
 
