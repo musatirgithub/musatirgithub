@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I'm currently a trainee at Clarusway IT Bootcamp .
-- 🌱 I'm learning || JAVASCRIPT || REACT ||
-- 💬 Ask me anything about IT.
+- 🔭 I'm a Fullstack web developer .
+- 🌱 I'm mainly using || DJANGO || REACT || in my projects.
+- 💬 You can contact with me about anything you want.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmet-ugur-satir/)
 
 - ![](https://komarev.com/ghpvc/?username=musatirgithub)
