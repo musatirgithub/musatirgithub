@@ -3,7 +3,7 @@
 
 
 - 🔭 I'm a Fullstack web developer .
-- 🌱 I'm mainly using || DJANGO || REACT || in my projects.
+- 🌱 I'm mainly using || NODE.JS || REACT || in my projects.
 - 💬 You can contact with me about anything you want.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmet-ugur-satir/)
 
